@@ -23,7 +23,7 @@ User must clone repo to use the program, as it requires commands such as npm i a
 
 ## Usage
 
-[alt text](https://drive.google.com/file/d/1fD6nHjv-_j9wNXYPM_XPOGlF7jhcjzvS/view)
+[Example video](https://drive.google.com/file/d/1fD6nHjv-_j9wNXYPM_XPOGlF7jhcjzvS/view)
 
 ## Credits
 
