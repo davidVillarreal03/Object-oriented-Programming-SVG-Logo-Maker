@@ -23,7 +23,7 @@ User must clone repo to use the program, as it requires commands such as npm i a
 
 ## Usage
 
-TBD
+[alt text](https://drive.google.com/file/d/1fD6nHjv-_j9wNXYPM_XPOGlF7jhcjzvS/view)
 
 ## Credits
 
@@ -38,7 +38,7 @@ https://choosealicense.com/licenses/mit/
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2024] [David Villarreal]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
